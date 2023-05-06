@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Blessings come from God
+=======
+The goodness of God is great and merciful and joyful
+>>>>>>> 08d557bf63644cdfb7b6aa8e4140d28df1dcd391
